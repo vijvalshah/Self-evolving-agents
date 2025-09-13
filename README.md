@@ -1,14 +1,5 @@
  A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence
 
-
-<!-- omit in toc -->
-## 📢 Updates
-
-- **2025.07**: We released a github repo to record papers related with reasoning economy. Feel free to cite or open pull requests.
-
-
----
-
 ## 📜 Table of Contents
 - [A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence](#a-survey-of-self-evolving-agents-on-path-to-artificial-super-intelligence)
     - [1. Introduction](#1-introduction)
